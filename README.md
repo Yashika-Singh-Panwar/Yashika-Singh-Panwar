@@ -2,7 +2,6 @@
 
 ## Contact Information
 - Email: yashikapanwar2003@gmail.com
-- Mobile: +91 7849912363
 - GitHub: [Yashika-Singh-Panwar](https://github.com/Yashika-Singh-Panwar)
 - LinkedIn: [yashika-singh-panwar-40687283](https://www.linkedin.com/in/yashika-singh-panwar-40687283)
 - CodeChef: [unique_style](https://www.codechef.com/users/unique_style)
@@ -24,5 +23,5 @@
 ## Positions of Responsibility
 - Head, Hospitality and Travels department, Effervescence, IIIT Allahabad
 - Senator, Student's Gymkhana, IIIT Allahabad
-- Executive, Media and Publicity department, Aparoksha and Antaragni, IIIT Allahabad
+- Executive, Media and Publicity department, Aparoksha and Asmita, IIIT Allahabad
 - Executive, Out Of Context hackathon, Effervescence, IIIT Allahabad
