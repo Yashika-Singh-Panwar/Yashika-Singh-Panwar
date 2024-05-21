@@ -8,7 +8,7 @@
 - LeetCode: [unique_style](https://leetcode.com/unique_style/)
 
 ## Education
-- B.Tech in Information Technology, Indian Institute of Information Technology, Allahabad (Dec 2021 - Present), CGPA: 7.78
+- B.Tech in Information Technology, Indian Institute of Information Technology, Allahabad (Dec 2021 - Present), CGPA: 7.96
 - Class XII, Bhagwan Mahavir Public School (Jul 2019 - Mar 2020), Percentage: 93.6%
 - Class X, Bhagwan Mahavir Public School (Jul 2017 - Mar 2018), Percentage: 90.5%
 
