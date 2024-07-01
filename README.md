@@ -3,7 +3,7 @@
 ## Contact Information
 - Email: yashikapanwar2003@gmail.com
 - GitHub: [Yashika-Singh-Panwar](https://github.com/Yashika-Singh-Panwar)
-- LinkedIn: [yashika-singh-panwar-40687283](https://www.linkedin.com/in/yashika-singh-panwar-40687283)
+- LinkedIn: [yashika-panwar-40687283](https://www.linkedin.com/in/yashika-panwar-40687b283/)
 - CodeChef: [unique_style](https://www.codechef.com/users/unique_style)
 - LeetCode: [unique_style](https://leetcode.com/unique_style/)
 
